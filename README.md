@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GraphViz
 
 | Problem Type           | Description                                                     | Presumption and Limitation | Examples|
@@ -9,3 +10,6 @@
 | Combinatorial Problems | Title                                                           |
 | Geometric Problems     | Title                                                           |
 | Numerical Problems     | Title                                                           |
+=======
+# GraphViz
+>>>>>>> parent of 9a4a947 (Some Changes)
